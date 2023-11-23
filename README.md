@@ -22,4 +22,4 @@ Apprenticeship at [PT LookMedia](https://lookmedia.co.id/)
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WildanZiddan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WildanZiddan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WildanZiddan&theme=merko&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WildanZiddan&theme=dark&hide_border=true&layout=compact)<br/>
