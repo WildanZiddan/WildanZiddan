@@ -15,7 +15,7 @@ Apprenticeship at [PT LookMedia](https://lookmedia.co.id/)
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png" alt="C" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/40670/c-programming" alt="C" width="40" height="40"/> </a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/C%2B%2B_logo.png/800px-C%2B%2B_logo.png?20210422185554" alt="c++" width="40" height="40"/> </a>
 <p align="left">   </p>
 <br/>
